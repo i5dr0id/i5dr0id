@@ -13,7 +13,8 @@ Most of my client work is private, so these are write-ups rather than code.
 
 - **Brails, 2026.** Rewrote a stablecoin payment service from NestJS to Go and rebuilt two Angular portals in React 19, on a live cross-border payments product. [Read the case study](https://i5dr0id.github.io/work/brails)
 - **Spendive, 2025.** Moved the customer app, vendor portal and admin dashboard onto TypeScript, Vue 3 and Nuxt 4, and set up deployments. [Read the case study](https://i5dr0id.github.io/work/spendive)
-- **Papershift, 2021 to 2025.** Component library, TypeScript migration, and the absence and shift planning modules for a scheduling product with over 10,000 daily users. [Read the case study](https://i5dr0id.github.io/work/papershift)
+- **Freelance, 2024 to 2025.** Client work between contracts: ComicPad, an AI comic creation and reading app, and the Blazesoft Studio site.
+- **Papershift, 2021 to 2024.** Component library, TypeScript migration, and the absence and shift planning modules for a scheduling product with over 10,000 daily users. [Read the case study](https://i5dr0id.github.io/work/papershift)
 - **Vue Mastery, 2021 to now.** Cloud Functions, storage hardening, video and image migrations, CircleCI deployments, and every Black Friday campaign since 2021. [Read the case study](https://i5dr0id.github.io/work/vue-mastery)
 - **EHCC, 2025.** A reporting and analytics platform for a church network, built from nothing in Vue 3 and NestJS. [Read the case study](https://i5dr0id.github.io/work/ehcc)
 
