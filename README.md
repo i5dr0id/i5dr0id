@@ -28,6 +28,7 @@ Most of my client work is private, so these are write-ups rather than code.
 
 ## Code on here
 
+- [sentinel-api](https://github.com/i5dr0id/sentinel-api) and [sentinel-ui](https://github.com/i5dr0id/sentinel-ui): a security detection and response engine in Go with MITRE ATT&CK-mapped rules, geo and ASN enrichment and a live request stream, and its React 19 triage dashboard.
 - [cutNjoin](https://github.com/i5dr0id/cutNjoin): a post-production studio's site, merch store and free drone footage library. Next.js, Sanity, Paystack, Cloudflare R2. [Live](https://cutnjoin.vercel.app)
 - [halogen-security](https://github.com/i5dr0id/halogen-security): corporate site for West Africa's largest integrated security provider, with an interactive coverage map. Next.js.
 - [blaze-website](https://github.com/i5dr0id/blaze-website): Figma-driven company site for Blazesoft Studio. Next.js 15. [Live](https://blazesoftstudio.com)
