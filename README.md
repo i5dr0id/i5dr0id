@@ -36,5 +36,3 @@ Most of my client work is private, so these are write-ups rather than code.
 - [crm-algostacks-web](https://github.com/i5dr0id/crm-algostacks-web), [algostacks-e-commerce-web](https://github.com/i5dr0id/algostacks-e-commerce-web), [algostacks-pos-multistore](https://github.com/i5dr0id/algostacks-pos-multistore): the CRM, PWA store and point of sale from my time at AlgoStacks, 2018 to 2019.
 - [graph-distance-api](https://github.com/i5dr0id/graph-distance-api) and [client](https://github.com/i5dr0id/graph-distance-client): measuring similarity between graphs with Levenshtein distance. Python and Vue.
 - [i5dr0id.github.io](https://github.com/i5dr0id/i5dr0id.github.io): the source for my portfolio. Nuxt 4, Tailwind v4, GitHub Pages.
-
-I also send documentation fixes and pull requests to the Vue.js and Pinia projects when I run into something.
